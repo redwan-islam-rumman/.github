@@ -1,4 +1,4 @@
-Reclaim Protocol Individual Contributor License Agreement ("Agreement")
+# Reclaim Protocol Individual Contributor License Agreement ("Agreement")
 
 Thank you for your interest in contributing to Reclaim Protocol (the "Project"). This Contributor License Agreement ("CLA") clarifies the terms under which intellectual property is contributed to the Project. This Agreement protects you as a Contributor as well as Reclaim Protocol and its users.
 
